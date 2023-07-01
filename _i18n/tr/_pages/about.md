@@ -1,5 +1,11 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Biz, yapay zekanın endüstrileri dönüştürme, verimliliği artırma ve insan yaşamını geliştirme gücüne inanıyoruz.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Çukurova Uygulamalı Yapay Zeka Araştırma Grubu olarak, teorik gelişmeleri farklı alanlarda uygulama fırsatı yaratmayı ve böylece teknolojik ilerlemeye katkı sağlamayı amaçlıyoruz. Merkezinde işbirliğinin yer aldığı bir felsefeye sahibiz. Çukurova Üniversitesi'ndeki araştırmacılar başta olmak üzere, farklı disiplinlerden araştırmacılarla bir araya gelerek, yapay zeka alanında ortak projeler yürütmeyi hedefliyoruz.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Yapay zeka teknolojilerinin sağlık, enerji, tarım, otomotiv ve daha birçok sektördeki sorunlara çözüm getirebileceğine inanıyoruz. Bu alanlarda çalışan araştırmacıların yapay zeka uygulamaları alanında ihtiyaç duydukları uzman desteğini sağlamayı hedefliyoruz. Grubumuzun uzmanlık alanları arasında yapay zeka, makine öğrenmesi, derin öğrenme, bilgisayarlı görü ve robotik bulunuyor. Bu alanlarda çalışan araştırmacılarımızla farklı disiplinlerden ekipler oluşturarak çeşitli projeler geliştirmeyi ve uygulamalar gerçekleştirmeyi istiyoruz.
+
+Grubumuz, akademik ve endüstriyel ortaklarla işbirliği yapmaya büyük önem veriyor. Çukurova Üniversitesi'nin güçlü altyapısı, bilgi birikimi ve yenilikçi yaklaşımıyla, sektörün ihtiyaçlarına yönelik çözümler sunuyoruz.
+
+Çalışmalarımızı keşfetmenizi, ekibimizle iletişime geçmenizi ve yapay zeka araştırmalarının ve pratik uygulamalarının sınırlarını ilerletme çabamıza katılmanızı bekliyoruz. 
+
+Birlikte, akıllı teknolojilerle güçlendirilmiş bir gelecek şekillendirelim.
