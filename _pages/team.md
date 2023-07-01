@@ -2,7 +2,7 @@
 layout: page
 title: titles.teaching
 description: descriptions.teaching
-permalink: /teaching/
+permalink: /team/
 nav: true
 nav_order: 5
 ---
