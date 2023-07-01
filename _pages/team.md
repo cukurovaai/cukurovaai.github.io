@@ -1,7 +1,7 @@
 ---
 layout: page
-title: titles.teaching
-description: descriptions.teaching
+title: titles.team
+description: descriptions.team
 permalink: /team/
 nav: true
 nav_order: 5
