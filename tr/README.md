@@ -1,1 +1,1 @@
-# Cukurova Applied Artificial Intelligence Research Group
+Cukurova Applied Artificial Intelligence Research Group
