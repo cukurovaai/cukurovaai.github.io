@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cukurovaai.github.io/tr/sitemap.xml
