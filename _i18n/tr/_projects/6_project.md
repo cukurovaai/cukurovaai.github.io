@@ -1,8 +1,8 @@
-Cada projeto tem uma bela página de apresentação de recursos.
-É fácil incluir imagens em um formato flexível de grade de 3 colunas.
-Faça suas fotos 1/3, 2/3 ou largura total.
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
-Para dar um plano de fundo ao seu projeto na página do portfólio, basta adicionar a tag img ao front Matter assim:
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
