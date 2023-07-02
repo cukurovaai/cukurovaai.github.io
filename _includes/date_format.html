@@ -11,5 +11,5 @@ Here, add language specific date formats
 {% if site.lang == 'en' %}
 {% t month %} {{day}}, {{year}}
 {% elsif site.lang == 'tr' %}
-{{day}} de {% t month %}, {{year}}
+{{day}} {% t month %} {{year}}
 {% endif %}
