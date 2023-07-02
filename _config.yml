@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Cukurova
+first_name: Çukurova
 middle_name:
 last_name: AI
 email: 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords:  # add your own keywords or leave empty
 
 lang: en # the main language of your site (for example: en, fr, cn, ru, etc.)
 icon: brain.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
