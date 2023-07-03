@@ -2,7 +2,7 @@
 layout: member
 name: Mehmet Sarıgül
 title: team.titles.asst
-img: assets/img/team/masarigul.jpeg
+img: assets/img/team/msarigul.jpg
 importance: 2
 category: faculty
 contact: msarigul@cu.edu.tr 

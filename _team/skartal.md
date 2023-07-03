@@ -2,7 +2,7 @@
 layout: member
 name: Serkan Kartal
 title: team.titles.asst
-img: assets/img/team/skartal.jpeg
+img: assets/img/team/skartal.jpg
 importance: 1
 category: faculty
 contact: skartal@cu.edu.tr 
