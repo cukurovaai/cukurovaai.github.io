@@ -1,9 +1,9 @@
 ---
 layout: member
 name: Barış Ata
-title: member.titles.asst
+title: team.titles.asst
 img: assets/img/team/bata.jpeg
-importance: 1
+importance: 3
 category: faculty
 contact: bata@cu.edu.tr 
 redirect: http://barisata.me
