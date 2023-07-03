@@ -72,7 +72,7 @@ pagination:
   older: Older
 team:
   titles:
-    project1: Project 1
+    asst: Project 1
   descriptions:
     project1: a project with a background image
   categories:
