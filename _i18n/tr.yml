@@ -78,6 +78,11 @@ projects:
   categories:
     fun: fun
     work: work
+member:
+  titles:
+    asst: Doktor Öğretim Üyesi
+  categories:
+    faculty: Akademik Personel
 repositories:
   users: GitHub Users
   repos: GitHub Repositories

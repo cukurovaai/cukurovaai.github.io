@@ -78,6 +78,11 @@ projects:
   categories:
     fun: fun
     work: work
+member:
+  titles:
+    asst: Assistant Proffesssor
+  categories:
+    faculty: faculty
 repositories:
   users: GitHub Users
   repos: GitHub Repositories

@@ -5,8 +5,38 @@ description: descriptions.team
 permalink: /team/
 nav: true
 nav_order: 5
+display_categories: [faculty]
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<!-- pages/team.md -->
+<div class="projects">
+{%- if site.enable_group_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {%- for category in page.display_categories %}
+  {%- assign categorized_members = site.group | where: "category", category -%}
+  {%- assign sorted_members = categorized_members | sort: "importance" %}
+  {%- if sorted_members.size != 0 %} <h2 class="category">{{ category }}</h2> {%- endif -%}
 
-Organize your courses by years, topics, or universities, however you like!
+  <!-- Generate cards for each project -->
+  <div class="container">
+  <div class="row">
+    {%- for member in sorted_members -%}
+    <div class="col-md-4">
+      {% include member.html %}
+    </div>
+    {%- endfor %}
+  </div>
+  </div>
+  {% endfor %}
+
+{%- else -%}
+<!-- Display projects without categories -->
+  {%- assign sorted_members = site.group | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+  <div class="grid">
+    {%- for member in sorted_members -%}
+      {% include member.html %}
+    {%- endfor %}
+  </div>
+{%- endif -%}
+</div>
