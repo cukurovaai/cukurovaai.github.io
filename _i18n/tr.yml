@@ -70,6 +70,14 @@ news:
 pagination:
   newer: Newer
   older: Older
+team:
+  titles:
+    asst: Project 1
+  descriptions:
+    project1: a project with a background image
+  categories:
+    fun: fun
+    work: work
 projects:
   titles:
     project1: Project 1
@@ -78,11 +86,6 @@ projects:
   categories:
     fun: fun
     work: work
-team:
-  titles:
-    asst: Doktor Öğretim Üyesi
-  categories:
-    faculty: Akademik Personel
 repositories:
   users: GitHub Users
   repos: GitHub Repositories

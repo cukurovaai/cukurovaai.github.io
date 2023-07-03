@@ -70,6 +70,14 @@ news:
 pagination:
   newer: Newer
   older: Older
+team:
+  titles:
+    project1: Project 1
+  descriptions:
+    project1: a project with a background image
+  categories:
+    fun: fun
+    work: work
 projects:
   titles:
     project1: Project 1
@@ -78,11 +86,6 @@ projects:
   categories:
     fun: fun
     work: work
-team:
-  titles:
-    asst: Assistant Proffesssor
-  categories:
-    faculty: faculty
 repositories:
   users: GitHub Users
   repos: GitHub Repositories
