@@ -10,10 +10,10 @@ display_categories: [faculty]
 
 <!-- pages/team.md -->
 <div class="projects">
-{%- if site.enable_group_categories and page.display_categories %}
+{%- if site.enable_team_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
-  {%- assign categorized_members = site.group | where: "category", category -%}
+  {%- assign categorized_members = site.team | where: "category", category -%}
   {%- assign sorted_members = categorized_members | sort: "importance" %}
   {%- if sorted_members.size != 0 %} <h2 class="category">{{ category }}</h2> {%- endif -%}
 
