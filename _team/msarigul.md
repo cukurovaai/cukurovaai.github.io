@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Mehmet Sarıgül
-title: projects.titles.project1
+title: team.titles.assistant
 img: assets/img/team/msarigul.jpg
 importance: 2
 category: faculty
