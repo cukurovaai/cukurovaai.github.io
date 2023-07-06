@@ -105,6 +105,52 @@ blockquote {
   }
 }
 
+.card-body {
+  .card-text {
+    margin-bottom: 0.4rem;
+  }
+}
+
+.card-columns {
+  @media (min-width: 576px) {
+    column-count: 2;
+  }
+  column-count: 1;
+}
+
+.card-img-no-margin {
+  figure {
+    margin: 0 0 0rem;
+  }
+}
+
+
+
+.member-card {
+  background-color: var(--global-card-bg-color);
+  height: 100%;
+  img {
+    width: 150px !important;
+    height: 150px !important;
+    object-fit: cover;
+    border-radius: 100%;
+  }
+
+  .card-title {
+    color: var(--global-text-color);
+  }
+
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+
 // Citation
 
 .citation,
