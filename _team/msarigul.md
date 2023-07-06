@@ -1,7 +1,6 @@
 ---
 layout: member
 name: Mehmet Sarıgül
-title: team.titles.asst
 img: assets/img/team/msarigul.jpg
 importance: 2
 category: faculty
