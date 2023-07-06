@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Serkan Kartal
-title: team.titles.assistant
+title: team.titles.asst
 img: assets/img/team/skartal.jpg
 importance: 1
 category: faculty
