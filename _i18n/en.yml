@@ -72,12 +72,9 @@ pagination:
   older: Older
 team:
   titles:
-    asst: Project 1
-  descriptions:
-    project1: a project with a background image
+    assistant: Project 1
   categories:
-    fun: fun
-    work: work
+    faculty: faculty
 projects:
   titles:
     project1: Project 1
