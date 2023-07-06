@@ -1,7 +1,6 @@
 ---
 layout: member
 name: Serkan Kartal
-title: projects.titles.project1
 img: assets/img/team/skartal.jpg
 importance: 1
 category: faculty
