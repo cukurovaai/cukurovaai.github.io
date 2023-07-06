@@ -76,8 +76,8 @@ projects:
   descriptions:
     project1: Proje1
   categories:
-    fun: fun
-    work: work
+    tubitak: TÜBİTAK
+    bap: BAP
 repositories:
   users: GitHub Users
   repos: GitHub Repositories

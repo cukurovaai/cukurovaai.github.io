@@ -76,8 +76,8 @@ projects:
   descriptions:
     project1: a project with a background image
   categories:
-    fun: fun
-    work: work
+    tubitak: TUBITAK
+    bap: BAP
 repositories:
   users: GitHub Users
   repos: GitHub Repositories
