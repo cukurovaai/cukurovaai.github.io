@@ -18,12 +18,12 @@
           alt="thumbnail" -%}
         {%- endif %}
           <div class="card-body">
-            <h3 class="card-title">{{ member.name }}</h3>
+            <h3 class="card-title">{% t  member.name %}</h3>
             {%- if member.title %}
-              <p class="card-text">{{ member.title }}</p>
+              <p class="card-text">{% t  member.title %}</p>
             {%- endif %}
             {%- if member.contact %}
-              <p class="card-text">{{ member.contact }}</p>
+              <p class="card-text">{%t member.contact %}</p>
             {%- endif %}
           </div>
         </div>
