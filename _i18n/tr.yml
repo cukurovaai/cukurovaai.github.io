@@ -84,3 +84,5 @@ repositories:
 members:
   titles:
     asst: Asst
+  categories:
+    faculty: Akademik Personel
