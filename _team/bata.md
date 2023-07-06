@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Barış Ata
-degree: A
+title: A
 importance: 3
 img: assets/img/team/bata.jpeg
 category: faculty
