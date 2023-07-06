@@ -1,5 +1,5 @@
 not_found:
-  message: You will be redirected to the main page within 3 seconds. If not redirected, please go back to the
+  message: 3 saniye içinde anasayfaya yönlendirileceksiniz.
   main_page: Ana Sayfa
 main:
   address: >
@@ -11,28 +11,28 @@ main:
   footer_text: 
   subtitle: Çukurova Uygulamalı Yapay Zeka Araştırma Grubu
 titles:
-  about: hakkımızda
-  blog: blog
-  news: haberler
-  projects: projeler
-  publications: yayınlar
-  selected_publications: seçilmiş yayınlar
-  team: ekibimiz
-  unk: sayfa bulunamadı
-descriptions:
-  about: hakkımızda
-  archive-category: kategori
-  archive-tag: etiket
-  archive-year: yıl
-  blog: blog
-  publications: Yayınlar
+  about: Hakkımızda
+  blog: Blog
+  news: Haberler
   projects: Projeler
-  repositories: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+  publications: Yayınlar
+  selected_publications: Seçilmiş Yayınlar
   team: Ekibimiz
+  unk: Sayfa Bulunamadı
+descriptions:
+  about: Çukurova AI Hakında
+  archive-category: Kategori
+  archive-tag: Etiket
+  archive-year: Yıl
+  blog: Blog
+  publications: Ekibimizin dahil olduğu yayınların listesi.
+  projects: Ekibimizin dahil olduğu projelerin listesi.
+  repositories: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+  team: Ekibimizle tanışın.
   unk: Looks like there has been a mistake. Nothing exists here.
 blog:
-  description: a simple whitespace theme for academics
-  name: al-folio blog in english # blog_name will be displayed in your blog page
+  description: blog
+  name: blog in turkish # blog_name will be displayed in your blog page
   nav_title: blog # your blog must have a title for it to be displayed in the nav bar
   related_posts:
     description: "Here are some more articles you might like to read next:"
@@ -72,9 +72,9 @@ pagination:
   older: Older
 projects:
   titles:
-    project1: Project 1
+    project1: Proje 1
   descriptions:
-    project1: a project with a background image
+    project1: Proje1
   categories:
     fun: fun
     work: work
@@ -83,6 +83,6 @@ repositories:
   repos: GitHub Repositories
 members:
   titles:
-    asst: Asst
+    asst: Dr. Öğr. Üyesi
   categories:
     faculty: Akademik Personel
