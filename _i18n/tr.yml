@@ -84,5 +84,6 @@ repositories:
 members:
   titles:
     asst: Dr. Öğr. Üyesi
+    assoc: Doç. Dr.
   categories:
     faculty: Akademik Personel

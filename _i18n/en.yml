@@ -84,5 +84,6 @@ repositories:
 members:
   titles:
     asst: Asst. Prof.
+    assoc: Assoc. Prof.
   categories:
     faculty: faculty
