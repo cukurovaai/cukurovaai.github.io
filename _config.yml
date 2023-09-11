@@ -270,7 +270,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Ata, Kartal, Sarıgül]
+  last_name: [Ata, Kartal, Sarıgül, Sarigul]
   first_name: [Baris, B., Serkan, S., Mehmet, M.]
 
   style: apa
