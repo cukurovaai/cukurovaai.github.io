@@ -39,12 +39,45 @@ pages = {105675},
 year = {2023},
 issn = {0952-1976},
 doi = {https://doi.org/10.1016/j.engappai.2022.105675},
-url = {https://www.sciencedirect.com/science/article/pii/S0952197622006650},
+html = {https://www.sciencedirect.com/science/article/pii/S0952197622006650},
 author = {Serkan Kartal},
 keywords = {Machine Learning, Prediction, Time series satellite data, Sea Surface Temperature},
 abbr = {Research Article},
 bibtex_show = true,
 abstract = {Spatiotemporal time series prediction plays a crucial role in a wide range of applications. However, in most of the studies, spatial information was ignored and predictions were carried out either on a few points or on average values. In this study, 37 different configurations of 4 traditional ML models and 3 Neural Network (NN) based models were utilized to provide a comprehensive comparison and evaluate the spatiotemporal data prediction capabilities of the ML models. Additionally, to reveal the importance of spatial data for the time series prediction process, the best configuration of each ML model was evaluated with and without using spatial information. The utilized models were: (i) Linear Regression (LR), (ii) K-Nearest Neighbors (KNN), (iii) Decision-Trees (DT), (iv) Support Vector Machine (SVM), (v) Multi-Layer Perceptron (MLP), (vi) Long Short-Term Memory (LSTM), and (vii) Gated Recurrent Unit (GRU). The study was performed on the Sea Surface Temperature (SST) data collected by satellite radiometers via infrared measurements. The models were evaluated according to their one-month ahead spatiotemporal SST prediction performance over the southern coasts of Turkey, and the effects of spatial information on model performance were presented. Results reveal that the spatial information increased the prediction performance by approximately 25%, in terms of RMSE. Additionally, acquired results show that the LSTM model outperforms all other ML models and gives the smallest prediction errors in all metrics.}
+}
+
+@article{kartal2021comparison,
+title = {Comparison of semantic segmentation algorithms for the estimation of botanical composition of clover-grass pastures from RGB images},
+journal = {Ecological Informatics},
+volume = {66},
+pages = {101467},
+year = {2021},
+issn = {1574-9541},
+doi = {https://doi.org/10.1016/j.ecoinf.2021.101467},
+html = {https://www.sciencedirect.com/science/article/pii/S1574954121002582},
+author = {Serkan Kartal},
+keywords = {Semantic segmentation, Clover-grass, Precision agriculture, Deep learning},
+abbr = {Research Article},
+bibtex_show = true,
+abstract = {In dairy industry, estimation of the in-field clover-grass ratio is an important factor in composing feed ratios for cows. Accurate estimation of the grass and clover ratios enables smart decisions to optimize seeding density and fertilization, resulting in increased yield and reduced amount of chemicals used. In practice, this process is still primarily performed by human-eye, which is labor-intensive, subjective, and error-prone. Therefore, plant species ratio estimation using traditional methods is hardly possible and misleading. Modern semantic segmentation models on digital images offer a promising alternative to overcome these drawbacks. In this paper, an extensive comparison of Deep Learning (DL) models for estimating the ratio of clover, grass, and weeds in red, green, and blue (RGB) images is presented. Three DL architectures (Unet, Linknet, FPN) are combined with ten randomly initialized encoders (variations of VGG, DenseNet, ResNet, Inception and EfficientNet) to construct thirty different segmentation models. Evaluation of models was performed on a publicly available dataset provided by the Biomass Prediction Challenge. The best segmentation accuracy was reached by the FPN-Inceptionresnetv2 model by 76.7%. This result indicates the great potential in deep convolutional neural networks for the segmentation of plant species in RGB images. Furthermore, this study lays the foundation for our next set of experiments with DL to improve the benchmarks and will further the quest to identify phenotype characteristics from agricultural imagery collected from the field.}
+}
+
+@article{kartal2022prediction,
+title = {Prediction of {MODIS} land surface temperature using new hybrid models based on spatial interpolation techniques and deep learning models},
+volume = {29},
+issn = {1614-7499},
+html = {https://doi.org/10.1007/s11356-022-20572-9},
+doi = {10.1007/s11356-022-20572-9},
+abstract = {Land surface temperature (LST) prediction is of great importance for climate change, ecology, environmental and industrial studies. These studies require accurate LST map predictions considering both spatial and temporal dynamics. In this study, multilayer perceptron (MLP), long short-term memory (LSTM) and an integrated machine learning model, namely Convolutional LSTM (ConvLSTM), were utilized for one step ahead LST prediction. Data were gathered from 1-day (MYD11A1) and 8-day composite (MYD11A2) Moderate Resolution Imaging Spectroradiometer (MODIS) sensors, which have 1-km × 1-km spatial resolution. Considering the inability of MODIS sensors to provide LST data under cloudy conditions, Inverse DISTANCE WEIGHTING (IDW), natural neighbor (NN), and cubic spline (C) methods were used to overcome the missing pixel problem. The proposed methods were tested over the Northern part of Adana province, Turkey, and the performances of the models were quantitatively evaluated through performance measures, namely, Root Mean Square Error (RMSE) and Mean Absolute Error (MAE). The selected datasets range from 01 January 2017 to 01 November 2020 and from 01 January 2015 to 01 November 2020 for daily LST and 8-day composite LST, respectively. While 60\% of the datasets were used as training set, the remaining 40\% were used as validation (20\%) and test (20\%) sets. RMSE maps were generated to evaluate the pixelwise performance of the proposed method. On the other hand, the best average RMSE and MAE for the daily test set were obtained from the combination of ConvLSTM and NN (NN-ConvLSTM) as 3.62 °C and 2.85 °C, respectively, while they were acquired 3.57 °C and 2.69 oC from the combination of MLP and NN (NN-MLP) for the 8-day composite LST test set. The results revealed that the proposed hybrid models could be used for one step ahead spatiotemporal prediction of LST data.},
+number = {44},
+journal = {Environmental Science and Pollution Research},
+author = {Kartal, Serkan and Sekertekin, Aliihsan},
+month = sep,
+year = {2022},
+pages = {67115--67134},
+abbr = {Research Article},
+bibtex_show = true,
 }
 
 @Article{kartal2021machine,
@@ -56,14 +89,11 @@ YEAR = {2021},
 NUMBER = {23},
 ARTICLE-NUMBER = {8022},
 html = {https://www.mdpi.com/1424-8220/21/23/8022},
-PubMedID = {34884027},
 ISSN = {1424-8220},
 abbr = {Research Article},
 bibtex_show = true,
 ABSTRACT = {This study tested whether machine learning (ML) methods can effectively separate individual plants from complex 3D canopy laser scans as a prerequisite to analyzing particular plant features. For this, we scanned mung bean and chickpea crops with PlantEye (R) laser scanners. Firstly, we segmented the crop canopies from the background in 3D space using the Region Growing Segmentation algorithm. Then, Convolutional Neural Network (CNN) based ML algorithms were fine-tuned for plant counting. Application of the CNN-based (Convolutional Neural Network) processing architecture was possible only after we reduced the dimensionality of the data to 2D. This allowed for the identification of individual plants and their counting with an accuracy of 93.18% and 92.87% for mung bean and chickpea plants, respectively. These steps were connected to the phenotyping pipeline, which can now replace manual counting operations that are inefficient, costly, and error-prone. The use of CNN in this study was innovatively solved with dimensionality reduction, addition of height information as color, and consequent application of a 2D CNN-based approach. We found there to be a wide gap in the use of ML on 3D information. This gap will have to be addressed, especially for more complex plant feature extractions, which we intend to implement through further research.},
 DOI = {10.3390/s21238022}
 }
-
-
 
 ---
