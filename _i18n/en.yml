@@ -25,8 +25,8 @@ descriptions:
   archive-tag: An archive of posts with this tag
   archive-year: An archive of posts from this year
   blog: blogging
-  publications: List of publications our team is involved in.
-  projects: List of projects our team is involved in.
+  publications: List of publications our team members  are involved in.
+  projects: List of projects our team members are involved in.
   repositories: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
   team: Meet our team.
   unk: Looks like there has been a mistake. Nothing exists here.

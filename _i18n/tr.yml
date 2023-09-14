@@ -25,8 +25,8 @@ descriptions:
   archive-tag: Etiket
   archive-year: Yıl
   blog: Blog
-  publications: Ekibimizin dahil olduğu yayınların listesi.
-  projects: Ekibimizin dahil olduğu projelerin listesi.
+  publications: Ekip üyelerimizin dahil olduğu yayınların listesi.
+  projects: Ekip üyelerimizin dahil olduğu projelerin listesi.
   repositories: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
   team: Ekibimizle tanışın.
   unk: Looks like there has been a mistake. Nothing exists here.
