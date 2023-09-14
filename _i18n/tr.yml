@@ -74,12 +74,13 @@ projects:
   titles:
     video_stabilization: Video Stabilizasyon İşlemi İçin Öz Gözetimli Derin Öğrenme Yaklaşımı
     every_fish: EveryFish
-    topraksiz_tarim: Kapalı Dikey Topraksız Tarım Yöntemiyle Model Bitki Marul Üretim Tekniklerinin Yapay Zekâ
-İle Optimize Edilmesi
+    topraksiz_tarim: Kapalı Dikey Topraksız Tarım Yöntemiyle Model Bitki Marul Üretim Tekniklerinin Yapay Zekâ İle Optimize Edilmesi
+    uav_lqr: Bir İnsansız Hava Aracının Yörünge Takibi için LQR Denetleyici Parametrelerinin Optimizasyonu
   descriptions:
     video_stabilization: ARDEB 3501
     every_fish: Digital transition of catch monitoring in European fisheries
     topraksiz_tarim: TAGEM-21/AR-GE/03
+    uav_lqr: Çukurova Üniversitesi Araştırma Projeleri Birimi
   categories:
     tubitak: TÜBİTAK
     bap: BAP
