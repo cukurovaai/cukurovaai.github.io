@@ -1,0 +1,7 @@
+Executive: **Barış Ata** 
+Researcher: Mashar Cenk Gençal
+
+**Abstract**
+Linear Quadratic Regulator (LQR) is one of the most prevalent methods used in the control of unmanned aerial vehicles. LQR controllers are commonly employed in the control of both linear and non-linear systems due to their advantages such as easy-to-apply and high-performance structure. However, there is one main difficulty that plays a significant role in the manner of determining the gain for the control signal: choosing appropriate weighting matrices. The selection of these matrices that directly affect the controller performance is generally performed by trial and error, which is laborious and time-consuming. Accordingly, various optimization algorithms have been utilized to determine the weighting matrices of the LQR controller. In this paper, the weighting matrices of the designed LQR controller were obtained using Standard Genetic Algorithm, Differential Evolution, Particle Swarm Optimization, and Grey Wolf Optimization algorithms. The obtained weighting matrices of the LQR controller were tested on an unmanned aerial vehicle simulation, and the performances of optimization algorithms were presented comparatively.
+
+This project was supported by the Research Fund of Cukurova University. Project Number: FBA-2022-14643.

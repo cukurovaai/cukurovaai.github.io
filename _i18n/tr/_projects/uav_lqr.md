@@ -1,0 +1,6 @@
+Yürütücü: **Barış Ata**
+Araştırmacı: Mashar Cenk Gençal
+
+**Özet**: Lineer Kuadratik Regülatör (Linear Quadratic Regulator - LQR), insansız hava araçlarının kontrolünde kullanılan en yaygın yöntemlerden biridir. LQR denetleyicileri, kolay uygulanabilirlikleri ve yüksek performans yapıları gibi avantajlar nedeniyle genellikle doğrusal ve doğrusal olmayan sistemlerin kontrolünde kullanılırlar. Ancak, kontrol sinyali için kazançların belirlenme şeklinde önemli bir rol oynayan temel bir zorluk bulunmaktadır: uygun ağırlık matrislerini seçmek. Denetleyici performansını doğrudan etkileyen bu matrislerin seçimi genellikle deneme yanılma yoluyla gerçekleştirilir, bu da zahmetli ve zaman alıcı bir süreçtir. Bu bağlamda, LQR denetleyicisinin ağırlık matrislerini belirlemek için çeşitli optimizasyon algoritmaları kullanılmıştır. Bu çalışmada, tasarlanan LQR denetleyicisinin ağırlık matrisleri, Standart Genetik Algoritma, Diferansiyel Evrim, Parçacık Sürü Optimizasyonu ve Gri Kurt Optimizasyonu algoritmaları kullanılarak elde edilmiştir. Elde edilen LQR denetleyicisi ağırlık matrisleri bir insansız hava aracı simülasyonunda test edilmiş ve optimizasyon algoritmalarının performansları karşılaştırmalı olarak sunulmuştur.
+
+Bu çalışma Çukurova Üniversitesi Araştırma Projeleri Birimi tarafından desteklenmiştir. Proje No: FBA-2022-14643.

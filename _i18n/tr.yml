@@ -83,7 +83,7 @@ projects:
     uav_lqr: Çukurova Üniversitesi Araştırma Projeleri Birimi
   categories:
     tubitak: TÜBİTAK
-    bap: Yükseköğretim Kurumları Destekli Projeler
+    bap: Yükseköğretim Kurumları
     eu: Avrupa Birliği
     tagem: TAGEM
 repositories:
