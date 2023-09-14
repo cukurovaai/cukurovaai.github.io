@@ -72,7 +72,7 @@ pagination:
   older: Older
 projects:
   titles:
-    video_stabilization: Video Stabilizasyon Işlemi Için Öz Gözetimli Derin Öğrenme Yaklaşımı
+    video_stabilization: Video Stabilizasyon İşlemi İçin Öz Gözetimli Derin Öğrenme Yaklaşımı
   descriptions:
     video_stabilization: ARDEB 3501
   categories:
