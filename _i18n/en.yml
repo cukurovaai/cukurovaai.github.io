@@ -72,9 +72,9 @@ pagination:
   older: Older
 projects:
   titles:
-    project1: Project 1
+    video_stabilization: Self-Supervised Deep Learning Approach for Video Stabilization
   descriptions:
-    project1: a project with a background image
+    video_stabilization: ARDEB 3501
   categories:
     tubitak: TUBITAK
     bap: BAP

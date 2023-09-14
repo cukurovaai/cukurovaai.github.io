@@ -72,9 +72,9 @@ pagination:
   older: Older
 projects:
   titles:
-    project1: Proje 1
+    video_stabilization: Video Stabilizasyon Işlemi Için Öz Gözetimli Derin Öğrenme Yaklaşımı
   descriptions:
-    project1: Proje1
+    video_stabilization: ARDEB 3501
   categories:
     tubitak: TÜBİTAK
     bap: BAP
