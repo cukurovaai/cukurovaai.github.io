@@ -5,7 +5,7 @@ description: descriptions.projects
 permalink: /projects/
 nav: true
 nav_order: 2
-display_categories: [tubitak, bap]
+display_categories: [tubitak, bap, eu, tagem]
 horizontal: false
 ---
 

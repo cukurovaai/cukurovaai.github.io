@@ -73,11 +73,15 @@ pagination:
 projects:
   titles:
     video_stabilization: Video Stabilizasyon İşlemi İçin Öz Gözetimli Derin Öğrenme Yaklaşımı
+    every_fish: EveryFish
   descriptions:
     video_stabilization: ARDEB 3501
+    every_fish: Digital transition of catch monitoring in European fisheries
   categories:
     tubitak: TÜBİTAK
     bap: BAP
+    eu: Avrupa Birliği
+    tagem: TAGEM
 repositories:
   users: GitHub Users
   repos: GitHub Repositories

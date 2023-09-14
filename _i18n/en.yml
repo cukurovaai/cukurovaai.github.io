@@ -73,11 +73,15 @@ pagination:
 projects:
   titles:
     video_stabilization: Self-Supervised Deep Learning Approach for Video Stabilization
+    every_fish: EveryFish
   descriptions:
     video_stabilization: ARDEB 3501
+    every_fish: Digital transition of catch monitoring in European fisheries
   categories:
     tubitak: TUBITAK
     bap: BAP
+    eu: European Union
+    tagem: TAGEM
 repositories:
   users: GitHub Users
   repos: GitHub Repositories
