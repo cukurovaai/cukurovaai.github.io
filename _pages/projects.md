@@ -23,7 +23,7 @@ horizontal: false
      {%- for project in sorted_projects -%}
      <tr>
         <td>
-          <a  href="{{ project.url | prepend: site.baseurl }}">{% t project.title %}</a> - {% t project.title %}
+          <a class="news-title" href="{{ project.url | prepend: site.baseurl }}">{% t project.title %}</a> - {% t project.description %}
           </td>
        </tr>
       {%- endfor %}
