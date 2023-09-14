@@ -28,8 +28,21 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
+
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+     {%- for project in sorted_projects -%}
+     <tr>
+        <td>
+          <a  href="{{ project.url | prepend: site.baseurl }}">{% t project.title %}</a> - {% t project.description %}
+        </td>
+       </tr>
+      {%- endfor %}
+    </table>
+  </div>
   <div class="grid">
     {%- for project in sorted_projects -%}
+
       {% include projects.html %}
     {%- endfor %}
   </div>
