@@ -1,0 +1,9 @@
+**Project Team**
+
+ **Researcher: Serkan Kartal**, Researcher: İsmet Saygu, Researcher: Estanis Mugerza, Executive: Tom Catchpole, Researcher: Jon Ruiz, Researcher: Gorka Gabina, Researcher: Ainhoa Caballero, Researcher: Josn Antonio Fernandes, Executive: Inaki Quincoces, Researcher: Marie Storr-Paulsen, Executive: Jordan Feekings, Researcher: Bj.rn Arvid, Researcher: Arnfinn Morvik, Researcher: Sjur Ringheim Lid, Researcher: Ketil Malde, Researcher: H.kon Otter., Researcher: Jon Helge V.lstad, Executive: Helge Sagen, Researcher: Ruth Veevers, Researcher: Artjoms Gorpincenko, Researcher: Mark Fisher, Executive: Michal Mackiewicz, Executive: Gölhan Gökçe, Executive: Bent Herrmann, Researcher: Rachel Tiller, Researcher: John Reidar Mathiassen, Researcher: Lars T. Kyllingstad, Researcher: Maitri Thakur, Researcher: Emily Cowan, Executive: Sofie Vandemaele, Researcher: Hans Polet, Researcher: Els Torreele, Executive: Ricardo Da Silva Torres, Researcher: Gert Kootstra, Executive: Aloysius van Helmond
+
+**Project Description***
+
+Optimised automatic data collection of fish size, weight and species will provide verifiable catch information and ensure correct reporting and compliance by design with fisheries regulations. It will also streamline monitoring activities for the fishing industry and regulators, and generate knowledge and data for future conservation, research and governance activities. The EU-funded EveryFish project will develop, test and promote a suite of technological innovation for a future generation Electronic Reporting System (ERS) for fully automated catch recording and reporting onboard European fishing vessels. Moreover, it will develop innovative governance strategies exploiting the automatically reported catch data. EveryFish will bring research, industry and governance actors together with technology providers so the work is grounded in the knowledge and experience of all relevant stakeholders.
+
+

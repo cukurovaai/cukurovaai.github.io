@@ -1,0 +1,9 @@
+**Proje Ekibi**
+
+ **Araştırmacı: Serkan Kartal**, Araştırmacı: İsmet Saygu, Araştırmacı: Estanis Mugerza, Yönetici: Tom Catchpole, Araştırmacı: Jon Ruiz, Araştırmacı: Gorka Gabina, Araştırmacı: Ainhoa Caballero, Araştırmacı: Josn Antonio Fernandes, Yönetici: Inaki Quincoces, Araştırmacı: Marie Storr-Paulsen, Yönetici: Jordan Feekings, Araştırmacı: Bj.rn Arvid, Araştırmacı: Arnfinn Morvik, Araştırmacı: Sjur Ringheim Lid, Araştırmacı: Ketil Malde, Araştırmacı: H.kon Otter., Araştırmacı: Jon Helge V.lstad, Yönetici: Helge Sagen, Araştırmacı: Ruth Veevers, Araştırmacı: Artjoms Gorpincenko, Araştırmacı: Mark Fisher, Yönetici: Michal Mackiewicz, Yönetici: Gölhan Gökçe, Yönetici: Bent Herrmann, Araştırmacı: Rachel Tiller, Araştırmacı: John Reidar Mathiassen, Araştırmacı: Lars T. Kyllingstad, Araştırmacı: Maitri Thakur, Araştırmacı: Emily Cowan, Yönetici: Sofie Vandemaele, Araştırmacı: Hans Polet, Araştırmacı: Els Torreele, Yönetici: Ricardo Da Silva Torres, Araştırmacı: Gert Kootstra, Yönetici: Aloysius van Helmond
+
+**Project Description***
+
+Optimised automatic data collection of fish size, weight and species will provide verifiable catch information and ensure correct reporting and compliance by design with fisheries regulations. It will also streamline monitoring activities for the fishing industry and regulators, and generate knowledge and data for future conservation, research and governance activities. The EU-funded EveryFish project will develop, test and promote a suite of technological innovation for a future generation Electronic Reporting System (ERS) for fully automated catch recording and reporting onboard European fishing vessels. Moreover, it will develop innovative governance strategies exploiting the automatically reported catch data. EveryFish will bring research, industry and governance actors together with technology providers so the work is grounded in the knowledge and experience of all relevant stakeholders.
+
+
