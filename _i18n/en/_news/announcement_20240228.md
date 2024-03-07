@@ -1,1 +1,1 @@
-Our project titled 'Large Language Model-Enhanced Visual Simultaneous Localization and Mapping for Robot Task and Motion Planning' has been awarded support by TÜBİTAK. :robot:
+Our project titled 'Large Language Model-Enhanced Visual Simultaneous Localization and Mapping for Robot Task and Motion Planning' has been awarded support by TÜBİTAK :robot:
