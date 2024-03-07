@@ -1,1 +1,1 @@
-'Robot Görev ve Hareket Planlaması ˙Için Büyük Dil Modeli Destekli Görsel E¸szamanlı Konum Belirleme ve Haritalandırma' başlıklı projemiz TÜBİTAK tarafından desteklenmeye hak kazandı :robot:
+'Robot Görev ve Hareket Planlaması İçin Büyük Dil Modeli Destekli Görsel Eşzamanlı Konum Belirleme ve Haritalama' başlıklı projemiz TÜBİTAK tarafından desteklenmeye hak kazandı :robot:

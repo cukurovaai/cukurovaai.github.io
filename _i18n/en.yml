@@ -76,11 +76,13 @@ projects:
     every_fish: EveryFish - Digital transition of catch monitoring in European fisheries
     topraksiz_tarim: Kapalı Dikey Topraksız Tarım Yöntemiyle Model Bitki Marul Üretim Tekniklerinin Yapay Zekâ İle Optimize Edilmesi
     uav_lqr: Optimization of LQR Controller Parameters for Trajectory Tracking of a UAV
+    vlslam: Large Language Model-Enhanced Visual Simultaneous Localization and Mapping for Robot Task and Motion Planning
   descriptions:
     video_stabilization: ARDEB 3501
     every_fish: Horizon Europe 2021
     topraksiz_tarim: TAGEM-21/AR-GE/03
     uav_lqr: Research Fund of Cukurova University
+    vlslam: ARDEB 1001
   categories:
     tubitak: TUBITAK
     bap: Higher Education Institutions
