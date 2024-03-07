@@ -2,7 +2,7 @@
 layout: page
 title: projects.titles.video_stabilization
 description: projects.descriptions.video_stabilization
-importance: 1
+importance: 3
 category: tubitak
 ---
 
