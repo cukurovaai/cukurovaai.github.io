@@ -77,12 +77,14 @@ projects:
     topraksiz_tarim: Kapalı Dikey Topraksız Tarım Yöntemiyle Model Bitki Marul Üretim Tekniklerinin Yapay Zekâ İle Optimize Edilmesi
     uav_lqr: Bir İnsansız Hava Aracının Yörünge Takibi için LQR Denetleyici Parametrelerinin Optimizasyonu
     vlslam: Robot Görev ve Hareket Planlaması İçin Büyük Dil Modeli Destekli Görsel Eşzamanlı Konum Belirleme ve Haritalama
+    difmod: Seri Çekim Görüntülerinin Görüntü İyileştirmesinde ve Restorasyonunda Difüzyon Olasılıksal Modellerin Kullanımı
   descriptions:
     video_stabilization: ARDEB 3501
     every_fish: Horizon Europe 2021
     topraksiz_tarim: TAGEM-21/AR-GE/03
     uav_lqr: Çukurova Üniversitesi Araştırma Projeleri Birimi
     vlslam: ARDEB 1001
+    difmod: ARDEB 1001
   categories:
     tubitak: TÜBİTAK
     bap: Yükseköğretim Kurumları
